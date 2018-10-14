@@ -1,6 +1,7 @@
 anaconda历届版本
 https://repo.continuum.io/archive/
 
+安装tensorflow过程
 1. 先用anaconda下载好python3.6
 2.下载https://storage.googleapis.com/tensorflow/windows/cpu/tensorflow-1.7.0rc0-cp36-cp36m-win_amd64.whl
 
